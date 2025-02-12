@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.19.6
 LABEL maintainer="shaddock<hushuang123a@foxmail.com>"
 
 
